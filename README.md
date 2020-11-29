@@ -68,3 +68,5 @@ Can be found at http://immortal.multicomp.cs.cmu.edu/CMU-MOSEI/language/
 Note: If you are running step 4 first, make sure you are saving the hidden representations/Embeddings somewhere first. And Models/DCCA should load those instead of running the models again. 
 
 Each section in the scripts or notebooks are commented with what they do and how to run those.
+
+Model weights are not included in the repo because of the size constraints.
